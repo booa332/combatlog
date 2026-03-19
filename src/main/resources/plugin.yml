@@ -1,0 +1,8 @@
+name: CombatLog
+version: 1.0
+main: com.coresmp.combatlog.CombatLog
+api-version: 1.21
+commands:
+  coremode:
+    description: Toggle creative mode
+    usage: /coremode [off]
